@@ -7,6 +7,8 @@ trademarks or registered trademarks of Riot Games, Inc. League of Legends © Rio
 
 Capstone1FinalPaper.pdf - Complete Report of the Project
 
+Capstone1ProjectPresentationSlides.pdf - Presentation Slides
+
 CapstoneProject1Proposal.pdf - Contains the Initial Project Proposal
 
 DataWrangling.docx - A report of the data wrangling and cleaning process
