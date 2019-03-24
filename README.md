@@ -5,21 +5,25 @@ This Data Science project titled 'Capstone_Project_1' is not endorsed by Riot Ga
 Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are
 trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
-Capstone1FinalPaper.pdf - Complete Report of the Project
+01_CapstoneProject1Proposal.pdf - Contains the Initial Project Proposal
 
-Capstone1ProjectPresentationSlides.pdf - Presentation Slides
+02_DataWrangling.pdf - A report of the data wrangling and cleaning process
 
-CapstoneProject1Proposal.pdf - Contains the Initial Project Proposal
+03_Data_Wrangling_API.ipynb - Jupyter Notebook containing the code for the data wrangling and cleaning process
 
-DataWrangling.docx - A report of the data wrangling and cleaning process
+04_EDA.ipynb - Jupyter Notebook containing the code for Exploratory Data Analysis and Inferential Statistics
 
-Data_Wrangling_API.ipynb - Jupyter Notebook containing the code for the data wrangling and cleaning process
+05_MileStoneReport.pdf - A Milestone report for the project that was written halfway during project completion
 
-EDA.ipynb - Jupyter Notebook containing the code for Exploratory Data Analysis and Inferential Statistics
+06_Machine_Learning.ipynb - Jupyter Notebook for Machine Learning Code
 
-Machine_Learning.ipynb - Jupyter Notebook for Machine Learning Code
+07_MachineLearningAnalysis.pdf - Detailed report of Machine Learning
 
-MileStoneReport.pdf - A Milestone report for the project that was written halfway during project completion
+08_Capstone1FinalPaper.pdf - Complete Report of the Project
+
+09_Capstone1ProjectPresentationSlides.pdf - Presentation Slides
+
+
 
 style-notebook.css - CSS to add formating to default DataFrames
 
