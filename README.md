@@ -1,5 +1,5 @@
 # Capstone_Project_1
-Business and practical use cases for predicting match outcomes in League of Legends usign data science.
+Business and practical use cases for predicting match outcomes in League of Legends using data science.
 
 This Data Science project titled 'Capstone_Project_1' is not endorsed by Riot Games and doesn’t reflect the views or opinions of 
 Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are
